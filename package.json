@@ -1,0 +1,27 @@
+{
+  "name": "chatsy-ai-ai-chatbot",
+  "version": "1.0.0",
+  "description": "AI Chatbot builds a free AI chatbot for your website in minutes with no coding required",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "ai-chatbot",
+    "chatbot",
+    "ai",
+    "conversational-ai",
+    "no-code",
+    "customer-support",
+    "saas",
+    "javascript",
+    "nodejs"
+  ],
+  "author": "Chatsy",
+  "license": "ISC",
+  "homepage": "https://chatsy.ai",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chatsy-ai/ai-chatbot.git"
+  }
+}
